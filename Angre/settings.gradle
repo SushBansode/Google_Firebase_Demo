@@ -1,0 +1,2 @@
+include ':app', ':libSwitch'
+rootProject.name='Angre'

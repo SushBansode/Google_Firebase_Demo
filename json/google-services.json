@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "448579686008",
+    "firebase_url": "https://fir-demo-88df2.firebaseio.com",
+    "project_id": "fir-demo-88df2",
+    "storage_bucket": "fir-demo-88df2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448579686008:android:d02d93d9846112c023678d",
+        "android_client_info": {
+          "package_name": "tatastrive.application.google_firebase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448579686008-dhu3jve0m0lr50lgl6a3mom48vph302e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIkRb-T4gLCa1nXkNvYo8t64C1sEUW1s4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448579686008-dhu3jve0m0lr50lgl6a3mom48vph302e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
